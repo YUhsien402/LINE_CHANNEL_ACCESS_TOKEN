@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+urllib3
+```
+
+### **3. .gitignore 內容：**
+```
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+_pycache_/
